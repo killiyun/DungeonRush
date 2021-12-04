@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5bf044ebdff8eef428043e58f90c205f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - exit: {fileID: 2515136763290163580, guid: ce464b73d1d92834191fe38b237e97a0, type: 3}
+  - player: {fileID: 8030166755990442052, guid: 424b7fda258d86a46b0a1420f6c9d569, type: 3}
+  - spikes: {fileID: 5876790927489843441, guid: ef72ebfa521bd894c9a4493a3c5ff784, type: 3}
+  - time: {fileID: 7539967443234754881, guid: 6b2cc76ccf8dba344bfeeb7ad340cd43, type: 3}
+  - anyFloor: {fileID: 8709196755338762958, guid: b46052118f0b6ad418956c4c5cbf07f7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
